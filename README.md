@@ -6,7 +6,8 @@ This project is from the Day 29 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
-
+Cool project. Good reminder on how to target where mouse is clicked.
 
 ### Things Learned
 
+* "dblclick" is an event listener type for double click.
